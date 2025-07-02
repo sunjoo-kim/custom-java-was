@@ -1,0 +1,12 @@
+2025-05-24 17:47:24,139 [main] INFO  core.com.company.was.Server - Server started on port 8080
+2025-05-24 17:55:52,157 [main] INFO  core.com.company.was.Server - Server started on port 8080
+2025-05-24 17:56:22,880 [Thread-0] INFO  core.com.company.was.Server - data: Host: localhost:8080
+2025-05-24 17:56:22,882 [Thread-0] INFO  core.com.company.was.Server - data: User-Agent: curl/8.7.1
+2025-05-24 17:56:22,882 [Thread-0] INFO  core.com.company.was.Server - data: Accept: */*
+2025-05-24 17:56:22,882 [Thread-0] INFO  core.com.company.was.Server - data:
+2025-05-24 18:01:19,184 [main] INFO  core.com.company.was.Server - Server started on port 8080
+2025-05-24 18:01:26,132 [Thread-0] INFO  core.com.company.was.Server - request: GET /Hello?name=World HTTP/1.1
+2025-05-24 18:01:26,133 [Thread-0] INFO  core.com.company.was.Server - data: Host: localhost:8080
+2025-05-24 18:01:26,133 [Thread-0] INFO  core.com.company.was.Server - data: User-Agent: curl/8.7.1
+2025-05-24 18:01:26,133 [Thread-0] INFO  core.com.company.was.Server - data: Accept: */*
+2025-05-24 18:01:26,133 [Thread-0] INFO  core.com.company.was.Server - data:

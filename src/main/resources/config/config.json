@@ -1,0 +1,29 @@
+{
+  "port": 8080,
+  "hosts": {
+    "a.com": {
+      "httpRoot": "com/a",
+      "errorPages": {
+        "403": "403.html",
+        "404": "404.html",
+        "500": "500.html"
+      }
+    },
+    "your.com": {
+      "httpRoot": "com/a",
+      "errorPages": {
+        "403": "403.html",
+        "404": "404.html",
+        "500": "500.html"
+      }
+    },
+    "b.com": {
+      "httpRoot": "com/b",
+      "errorPages": {
+        "403": "403.html",
+        "404": "404.html",
+        "500": "500.html"
+      }
+    }
+  }
+}
