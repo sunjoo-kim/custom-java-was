@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 # custom-java-was
 A lightweight Java web application server built from scratch, without using servlet containers like Tomcat.
 =======
-# company WAS Project
 
 ## 📝 프로젝트 개요
 **company WAS Project**는 Java와 Maven 기반의 웹 애플리케이션 서버(WAS)를 직접 구현한 프로젝트입니다.  
@@ -88,4 +86,3 @@ HTTP 요청 처리, 가상 호스트 설정, 요청 필터링 등 서버의 핵�
    mvn clean package
    java -jar target/companyAbcTest-1.0-SNAPSHOT-jar-with-dependencies.jar
    ```
->>>>>>> 49bfb16 (initial commit)
